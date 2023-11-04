@@ -6,7 +6,10 @@ Il s'agit d'un projet React Native Typescript vierge setup avec EsLint et Pretti
 
 Pas encore disponible
 
-## Démarrer en local
+## Source
+https://deku.posstree.com/en/react-native/eslint-prettier-husky-lint-staged/
+
+## Initialiser le projer
 
 Clonez le projet
 
