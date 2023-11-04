@@ -1,0 +1,39 @@
+# React-Native-Typescript-EsLint-Prettier-Exemple
+
+Il s'agit d'un projet React Native Typescript vierge setup avec EsLint et Prettier crée avec expo
+
+## Versions
+
+Pas encore disponible
+
+## Démarrer en local
+
+Clonez le projet
+
+```bash
+  git clone https://github.com/Foxenz/React-Native-Typescript-EsLint-Prettier-Exemple.git
+```
+
+<br />
+
+Allez dans le dossier du projet
+
+```bash
+  cd React-Native-Typescript-EsLint-Prettier-Exemple
+```
+
+<br />
+
+Installez les dépendances
+
+```bash
+  npm install
+```
+
+<br />
+
+Relancer VsCode
+
+## Auteur
+
+[@foxenz](https://www.github.com/foxenz)
